@@ -1,3 +1,4 @@
 class Owner
-  # code goes here
+ Owner=[] # code goes here
+ 
 end
