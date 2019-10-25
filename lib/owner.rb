@@ -31,6 +31,9 @@ class Owner
       cat.mood = "happy"
     end
   end
+  def sell_pets
+    pets = {:dogs =>, :cats => []}
+  end
 end
 
  
